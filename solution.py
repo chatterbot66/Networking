@@ -27,7 +27,7 @@ def welcome_assignment_answers(question):
         answer = 4
     else:
         
-        return()
+        return(answer)
 
 # Complete all the questions.
 
