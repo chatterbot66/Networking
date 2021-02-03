@@ -39,3 +39,23 @@ if __name__ == "__main__":
 
     debug_question = "Are encoding and encryption the same? - Yes/No"
     (welcome_assignment_answers(debug_question))
+    debug_question = "Is it possible to decrypt a message without a key? - Yes/No"
+    (welcome_assignment_answers(debug_question))
+    debug_question = "Is it possible to decode a message without a key? - Yes/No"
+    (welcome_assignment_answers(debug_question))
+    debug_question = "Is a hashed message supposed to be un-hashed? - Yes/No"
+    (welcome_assignment_answers(debug_question))
+    debug_question = "What is the MD5 hashing value to the following message: 'NYU Computer Networking' - Use MD5 hash generator and use the answer in your code"
+    (welcome_assignment_answers(debug_question))
+    debug_question = "Is MD5 a secured hashing algorithm? - Yes/No"
+    (welcome_assignment_answers(debug_question))
+    debug_question = "What layer from the TCP/IP model the protocol DHCP belongs to? - The answer should be a numeric number"
+    (welcome_assignment_answers(debug_question))
+    debug_question = "What layer from the TCP/IP model the protocol DHCP belongs to? - The answer should be a numeric number"
+    (welcome_assignment_answers(debug_question))
+   
+    
+    
+    
+    
+    
